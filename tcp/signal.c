@@ -12,7 +12,7 @@ void sigHandler(int signo);
 
 int main(int argc,char *argv[])
 {
-//    signal(SIGINT,sigHandler);
+    signal(SIGINT,sigHandler);
 //    while(1)
 //    {
 //        sleep(1);
