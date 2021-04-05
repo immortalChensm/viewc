@@ -1,5 +1,4 @@
-//
-// Created by 1655664358@qq.com on 2014/5/1
+
 
 #include <stdio.h>
 
