@@ -9,7 +9,7 @@
 #define THURSDAY 4
 #define FRIDAY 5
 #define SATURDAY 6
-#define SUNDAY 7
+#define SUNDAY 8
 int main()
 {
     int day;
