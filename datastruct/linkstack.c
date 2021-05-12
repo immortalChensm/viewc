@@ -1,6 +1,4 @@
-//
-// Created by 1655664358@qq.com on 2017/5/28.
-//
+
 
 #include <stdio.h>
 #include <stdlib.h>
