@@ -17,5 +17,5 @@ int main()
     printf("encodeText=%d\t\t%7s\n",encodeText,itoa(encodeText,buffer,2));
     printf("decodeText=%d\t\t%s\n",decodeText,itoa(decodeText,buffer,2));
 printf("decodeText=%d\t\t%s\n",decodeText,atoi(decodeText,buffer,2));
-    return 0;
+    return 1;
 }
